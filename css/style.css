@@ -357,9 +357,7 @@ body::after{
   animation:floatingHero 5s ease-in-out infinite;
 }
 
-/* ========================= */
 /* SHIMMER BUTTON */
-/* ========================= */
 
 .primary{
   position:relative;
