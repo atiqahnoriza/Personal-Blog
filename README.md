@@ -228,7 +228,6 @@ Personal-Blog/
 ## Future Improvements
 
 * Add more project details
-* Improve the contact page with a working contact form
 * Add more animations and interactivity
 * Improve responsive design for different screen sizes
 * Add more blog posts or project documentation
